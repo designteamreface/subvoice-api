@@ -3,11 +3,5 @@
     "api/generate-audio.py": {
       "runtime": "python3.9"
     }
-  },
-  "routes": [
-    {
-      "src": "/api/generate-audio",
-      "dest": "/api/generate-audio.py"
-    }
-  ]
+  }
 }
