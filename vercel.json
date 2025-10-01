@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/generate-audio.py": {
-      "runtime": "python3.9"
-    }
-  }
-}
